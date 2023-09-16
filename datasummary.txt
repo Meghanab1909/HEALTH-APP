@@ -1,0 +1,22 @@
+User Details 
+Name: Susannah
+Age: 25
+Gender: Female
+
+Weight: 65 kg 
+Height: 1.67 m 
+BMI: 23 kg/m2 
+Health Risk: Normal 
+
+Total Calories Consumed: 502
+
+Cuisine: General
+Diet Chart:
+Breakfast - Cucumber Water, Cup of Oats and Dry Fruits
+Mid-day Beverage - Green Tea/Black Coffee/Fruit Juice
+Lunch - A Cup of Paneer Curry, Dal, Vegetable Salad and 2 rotis
+Afternoon Snack - Cup of Fruits, Glass of Buttermilk, Tea with no sugar and milk
+Dinner - A cup of Vegetable Salad, A cup of mixed vegetable curry and dal with 1 roti
+Night Snack - Fruit Salad/Dry Fruits/Yoghurt
+Exercise Properly and Try to have a balanced lifestyle
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
