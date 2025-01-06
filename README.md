@@ -11,3 +11,7 @@
 **5. dietplanner.py** - Displays a diet plan based on the option selected. 
 
 **6. datasummary.txt** - This text file is responsible for displaying the data summary of the user. 
+
+**7. project.mp4** - Screen Recording of the Project. If it does not display/load on github please download it to get a better understanding of the project.
+
+*The remaining files are media used in the project*
